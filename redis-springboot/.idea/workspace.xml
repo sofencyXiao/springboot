@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7abae833-c8ee-4faa-b332-c615d82ec478" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="G:\maven\repository" />
+        <option name="mavenHome" value="G:/maven/apache-maven-3.6.0" />
+        <option name="userSettingsFile" value="G:\maven\apache-maven-3.6.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1av3pTiPfz3JxR23r53Rywg40KL" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="compactDirectories" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RunManager" selected="JUnit.KuangApplicationTests.test">
+    <configuration name="KuangApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="redis-01-springboot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sofency.kuang.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.sofency.kuang" />
+      <option name="MAIN_CLASS_NAME" value="com.sofency.kuang.KuangApplicationTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KuangApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="redis-01-springboot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sofency.kuang.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.sofency.kuang" />
+      <option name="MAIN_CLASS_NAME" value="com.sofency.kuang.KuangApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KuangApplicationTests.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="redis-01-springboot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sofency.kuang.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.sofency.kuang" />
+      <option name="MAIN_CLASS_NAME" value="com.sofency.kuang.KuangApplicationTests" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KuangApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="redis-01-springboot" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sofency.kuang.KuangApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.KuangApplicationTests.test" />
+        <item itemvalue="JUnit.KuangApplicationTests.contextLoads" />
+        <item itemvalue="JUnit.KuangApplicationTests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7abae833-c8ee-4faa-b332-c615d82ec478" name="Default Changelist" comment="" />
+      <created>1587602422948</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587602422948</updated>
+      <workItem from="1587602432360" duration="8640000" />
+      <workItem from="1587653774094" duration="626000" />
+      <workItem from="1587685510524" duration="1718000" />
+      <workItem from="1587983861784" duration="762000" />
+      <workItem from="1587985132305" duration="30000" />
+      <workItem from="1588034074454" duration="3297000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1380" height="240" key="GridCell.Tab.0.bottom" timestamp="1588131185242">
+      <screen x="2160" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1397" height="300" key="GridCell.Tab.0.bottom/0.0.1440.920/2160.0.1920.1040@0.0.1440.920" timestamp="1587649628616" />
+    <state width="1380" height="240" key="GridCell.Tab.0.bottom/0.0.1440.920/2160.0.1920.1040@2160.0.1920.1040" timestamp="1588131185242" />
+    <state width="1380" height="240" key="GridCell.Tab.0.center" timestamp="1588131185242">
+      <screen x="2160" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1397" height="300" key="GridCell.Tab.0.center/0.0.1440.920/2160.0.1920.1040@0.0.1440.920" timestamp="1587649628616" />
+    <state width="1380" height="240" key="GridCell.Tab.0.center/0.0.1440.920/2160.0.1920.1040@2160.0.1920.1040" timestamp="1588131185242" />
+    <state width="1380" height="240" key="GridCell.Tab.0.left" timestamp="1588131185242">
+      <screen x="2160" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1397" height="300" key="GridCell.Tab.0.left/0.0.1440.920/2160.0.1920.1040@0.0.1440.920" timestamp="1587649628616" />
+    <state width="1380" height="240" key="GridCell.Tab.0.left/0.0.1440.920/2160.0.1920.1040@2160.0.1920.1040" timestamp="1588131185242" />
+    <state width="1380" height="240" key="GridCell.Tab.0.right" timestamp="1588131185242">
+      <screen x="2160" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1397" height="300" key="GridCell.Tab.0.right/0.0.1440.920/2160.0.1920.1040@0.0.1440.920" timestamp="1587649628616" />
+    <state width="1380" height="240" key="GridCell.Tab.0.right/0.0.1440.920/2160.0.1920.1040@2160.0.1920.1040" timestamp="1588131185242" />
+    <state width="1397" height="300" key="GridCell.Tab.1.bottom" timestamp="1587649628616">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1397" height="300" key="GridCell.Tab.1.bottom/0.0.1440.920/2160.0.1920.1040@0.0.1440.920" timestamp="1587649628616" />
+    <state width="1397" height="300" key="GridCell.Tab.1.center" timestamp="1587649628616">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1397" height="300" key="GridCell.Tab.1.center/0.0.1440.920/2160.0.1920.1040@0.0.1440.920" timestamp="1587649628616" />
+    <state width="1397" height="300" key="GridCell.Tab.1.left" timestamp="1587649628616">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1397" height="300" key="GridCell.Tab.1.left/0.0.1440.920/2160.0.1920.1040@0.0.1440.920" timestamp="1587649628616" />
+    <state width="1397" height="300" key="GridCell.Tab.1.right" timestamp="1587649628616">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1397" height="300" key="GridCell.Tab.1.right/0.0.1440.920/2160.0.1920.1040@0.0.1440.920" timestamp="1587649628616" />
+    <state x="65" y="65" key="new project wizard" timestamp="1587985146662">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="65" y="65" key="new project wizard/0.0.1440.920/2160.0.1920.1040@0.0.1440.920" timestamp="1587985146662" />
+  </component>
+</project>
