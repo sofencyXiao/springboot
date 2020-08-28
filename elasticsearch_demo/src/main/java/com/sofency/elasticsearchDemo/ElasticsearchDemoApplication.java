@@ -1,4 +1,4 @@
-package com.sofency.elasticsearch_demo;
+package com.sofency.elasticsearchDemo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
